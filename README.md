@@ -64,7 +64,7 @@ You have already created a React application as part of setting up the Github re
 10) Copy the connection string from your `.env` file into `SQLTabs` and create the products table.
 11) It's helpful to insert some dummy data into your database at this point to help you test as you go along. 
 
-# Part 1
+# Part 1 OVERVIEW (detailed instructions below)
 
 <b>Live example [here](https://shelfie.devmountain.com/v2/part1/). Filled out planning sheet [here](https://github.com/DevMountain/simulation-1/blob/master/PLANNING_SHEET.md)</b>
 
