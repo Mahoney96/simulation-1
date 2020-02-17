@@ -89,7 +89,12 @@ Functionality of the dashboard:
 **KEEP READING, THERE ARE MORE DETAILED INSTRUCTIONS BELOW**
 
 ## Design
+<details closed>
+ <summary>Open for Image of Design</summary>
+ 
 <img src="https://github.com/DevMountain/simulation-1/blob/master/assets/views/part1_view.png" />
+
+</details>
 
 ## Step 1
 You are going to start with the basic layout of the form and setting up the input boxes. You need to store the value of all three inputs in state.
