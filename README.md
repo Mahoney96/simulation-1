@@ -86,7 +86,7 @@ Functionality of the dashboard:
 * Each individual product should display its name, price and image.
     * If there is no image URL, a default image should appear for the product.
     
-*KEEP READING, DETAILED INSTRUCTIONS BELOW*
+**KEEP READING, DETAILED INSTRUCTIONS BELOW**
 
 ## Design
 <img src="https://github.com/DevMountain/simulation-1/blob/master/assets/views/part1_view.png" />
